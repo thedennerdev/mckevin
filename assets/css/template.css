@@ -110,6 +110,7 @@ nav a {
     flex-wrap: wrap;
 }
 footer a {
+    font-size: 21px;
     text-decoration: none;
     color: #081485;
 }
